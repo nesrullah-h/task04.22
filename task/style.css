@@ -1,0 +1,44 @@
+
+body{
+    display: flex;
+    flex-direction: column; 
+    border: 2px solid #180303;
+    width: 350px;
+    height: 130px;
+    text-align: center;
+}
+.fa-envelope{
+    margin: 5px;
+    padding: 5px;
+    width: 25px;
+    height: 25px;
+    color: white;
+    background-color:#154785 ;
+    border-radius: 50%;
+}
+.fa-brands{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+}
+a .fa-facebook-f{
+    background-color:#3e5b98 ;
+}
+a .fa-twitter{
+    background-color:#4da7de ;
+}
+a .fa-google-plus-g{
+    background-color:#dd4b39;
+}
+a .fa-vk{
+    background-color:#5a7fa6;
+}
+a .fa-odnoklassniki{
+    background-color:#f48421;
+}
+a .fa-pinterest{
+    background-color:#c92619;
+}
